@@ -1,1 +1,1 @@
-{"version":"1.0.0","build":"minor","whatsnew":["1","2","3"],"fixes":["4","5","6"],"readmore":"pagelink","downloadlink":"urlhere"}
+{"version":"1.0.1","build":"minor","whatsnew":["N/A"],"fixes":["Fixed issue where 'Ignore' button keep disabled after ignore user.","Fixed issue where'Add to Contacts' button disabled for non-added users."],"readmore":"https://cyberwolfsoft.ml/oracle-messenger-version-history/","downloadlink":"https://github.com/cyberwolfsoft/oracle-messenger/releases/download/Oracle/Oracle.Messenger.Setup.msi"}
